@@ -1,4 +1,5 @@
-# Hi there, I'm [Andres][website] 👋
+# Hi there, I'm [Andres][website] 👋 
+
 
 [![Website](https://img.shields.io/website?label=andresdelrio.dev&style=for-the-badge&url=https%3A%2F%2Fandresdelrio.dev)](https://andresdelrio.dev)
 
@@ -30,6 +31,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /<p>&nbsp;</p>
+<p>&nbsp;</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delrio12&layout=compact&theme=material-palenight" />
+</a>
+
 
 [website]: https://andresdelrio.dev
 [twitter]: https://twitter.com/devrio11
