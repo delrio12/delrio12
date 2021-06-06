@@ -35,7 +35,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delrio12&layout=compact&theme=material-palenight" />
 </a>
-
+d
 
 [website]: https://andresdelrio.dev
 [twitter]: https://twitter.com/devrio11
