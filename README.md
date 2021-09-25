@@ -7,7 +7,7 @@
 
 - 🌐 I just launched my portfolio website: [andresdelrio.dev][website]!
 - 👨‍💼 I’m looking for a web developer position
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning design 
 - 🥅 2021 Goal: Land a developer position
 - ⚡ Fun fact: I love gaming 🎮 and soccer ⚽ 
 
