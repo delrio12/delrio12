@@ -3,12 +3,12 @@
 
 [![Website](https://img.shields.io/website?label=andresdelrio.dev&style=for-the-badge&url=https%3A%2F%2Fandresdelrio.dev)](https://andresdelrio.dev)
 
-## I'm a Programmer 🖥️, Web Developer 💻, and Financial Engineer 💹
+## I'm a Developer 💻 with background in Financial Engineer 💹
 
 - 🌐 I just launched my portfolio website: [andresdelrio.dev][website]!
-- 👨‍💼 I’m looking for a web developer position
-- 🌱 I’m currently learning design 
-- ⚡ Fun fact: I love gaming 🎮 and soccer ⚽ 
+- 👨‍💼 I’m looking for a Developer position
+- 🌱 I’m currently learning Cybersecurity
+- ⚡ Fun fact: I am a big fan of F1🚗, Gaming🎮 and soccer⚽ 
 
 ### Connect with me:
 <p>&nbsp;</p>
