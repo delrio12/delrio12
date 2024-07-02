@@ -1,16 +1,16 @@
-# Hi there, I'm [Andres][website] 👋 
-
+# Hi there, I'm [Andres][website] 👋
 
 [![Website](https://img.shields.io/website?label=andresdelrio.dev&style=for-the-badge&url=https%3A%2F%2Fandresdelrio.dev)](https://andresdelrio.dev)
 
-## I'm a Developer 💻 with background in Financial Engineer 💹
+## I'm a Software Developer 💻 with background in Technical Support & Financial Engineer 💹
 
-- 🌐 I just launched my portfolio website: [andresdelrio.dev][website]!
-- 👨‍💼 I’m looking for a Developer position
+- 🌐 I just launched my portfolio website: [andresdelrio.dev][website]
+- 👨‍💼 I’m looking for a Front-End Developer position
 - 🌱 I’m currently learning Cybersecurity
-- ⚡ Fun fact: I am a big fan of F1🚗, Gaming🎮 and soccer⚽ 
+- ⚡ Fun fact: I am a big fan of F1🚗, gaming🎮 and soccer⚽
 
 ### Connect with me:
+
 <p>&nbsp;</p>
 
 [<img align="left" alt="andresdelrio.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -19,6 +19,7 @@
 <p>&nbsp;</p>
 
 ### Languages and Tools I use:
+
 <p>&nbsp;</p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,7 +35,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delrio12&layout=compact&theme=material-palenight" />
 </a>
-
 
 [website]: https://andresdelrio.dev
 [instagram]: https://instagram.com/andresdelrio11
