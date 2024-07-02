@@ -11,7 +11,7 @@ I'm a Software Developer 💻 with background in Technical Support & Financial E
 - 🌱 I’m currently learning Cybersecurity
 - ⚡ Fun fact: I am a big fan of F1🚗, gaming🎮 and soccer⚽
 
-### Connect with me:
+## 📫 Connect with me:
 
 <p>&nbsp;</p>
 
@@ -20,7 +20,7 @@ I'm a Software Developer 💻 with background in Technical Support & Financial E
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-### 🛠️ Languages and Tools I use:
+## 🛠️ Languages and Tools I use:
 
 <p>&nbsp;</p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
