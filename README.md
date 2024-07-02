@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=andresdelrio.dev&style=for-the-badge&url=https%3A%2F%2Fandresdelrio.dev)](https://andresdelrio.dev)
 
-## I'm a Software Developer 💻 with background in Technical Support & Financial Engineer 💹
+## I'm a Software Developer 💻 with background in Technical Support & Financial Engineering 💹
 
 - 🌐 I just launched my portfolio website: [andresdelrio.dev][website]
 - 👨‍💼 I’m looking for a Front-End Developer position
