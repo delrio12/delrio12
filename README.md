@@ -9,7 +9,7 @@ I'm a Software Developer 💻 with background in Technical Support & Financial E
 
 - 🌐 I just launched my portfolio website: [andresdelrio.dev][website]
 - 👨‍💼 I’m looking for a Front-End Developer position
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning Sverte
 - ⚡ Fun fact: I am a big fan of F1🚗, gaming🎮 and soccer⚽
 <p>&nbsp;</p>
 
