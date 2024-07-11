@@ -17,7 +17,7 @@ I'm a Software Developer 💻 with background in Technical Support & Financial E
 
 <p>&nbsp;</p>
 
-[<img align="left" alt="andresdelrio.dev" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][website][<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin][<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin][<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 
 <p>&nbsp;</p>
